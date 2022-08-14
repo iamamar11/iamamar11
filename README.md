@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amarjit Singh</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-- 🔭 I’m currently working for **Venturit.**
+- 🔭 I’m currently working for **Avanade**
 
 - 👨‍💻 All of my projects are available at [Amarjit.netlify.app](Amarjit.netlify.app)
 
-- 💬 Ask me about **JavaScript, React, React Native.**
+- 💬 Ask me about **JavaScript, React, React Native, Azure.**
 
 - 📫 How to reach me **iamamarjit95@gmail.com**
 
